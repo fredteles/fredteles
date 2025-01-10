@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fredteles
-- 👀 I’m interested in Digital Marketing, Sales and Business Development.
+- 👀 I’m interested in Digital Marketing, Data Science, Analytics, Sales and Business Development.
 - 🌱 I’m currently learning HTML5, CSS3 and Javascript.
 - 💞️ I’m looking to collaborate on small business digital transformation.
 - 📫 How to reach me? You can check my linkedin profile at: https://www.linkedin.com/in/fredteles/ 
